@@ -1,3 +1,5 @@
-function Cat(){
-    this.name ="name";
-}
+function Cat(name){
+    this.name = name;
+    this.stomach = [];
+};
+;
