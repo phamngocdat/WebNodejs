@@ -1,1 +1,1 @@
-console.log("hahaha");
+var Cat = require('/Cat');
